@@ -2,7 +2,7 @@
 Um programa automático de cura para o jogo Tibia, disponível em inglês (en_US) e português (pt_BR).
 Descrição
 TibiaAutoPotion é um utilitário que automatiza o uso de poções e magias de cura no jogo Tibia. O programa monitora constantemente as barras de vida e mana do personagem, ativando ações de cura quando necessário.
-Funcionalidade
+# Funcionalidade
 
 Captura screenshots de coordenadas específicas da tela principal
 Verifica alterações nas cores das barras de Vida e Mana
